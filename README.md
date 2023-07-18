@@ -5,14 +5,16 @@
 
 <!-- Here are some ideas to get you started: -->
 
-### I'm a FullStack Web Developer
+### I'm a FullStack Web Developer focused on the Front End
 
+###Tech:
+[![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,html,css,figma,git,postgres,mongodb,mysql,nextjs)](https://skillicons.dev)
 
 ### 😎 About Me: 
 
-- 🌱 I’m currently learning MongoDB and Typescript
-- 👀 I’m interested in front-end development and UX
-- 💻 I’m working on the final project for SoyHenry's Bootcamp 
+- 🌱 I’m currently learning Angular
+- 👀 I’m interested in front-end development and data analysis
+- 💻 I’m working on new projects and integrating AI on them 
 - 💬 Ask me about web design, music, movies...
 
 ### 📫 How to reach me:
