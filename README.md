@@ -9,7 +9,7 @@
 
 ### Tech:
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,html,css,figma,tailwind,mui,bootstrap,git,postgres,mongodb,mysql,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,html,css,figma,tailwind,mui,bootstrap,git,github,atlassian,vitest,postgres,mongodb,mysql,nextjs)](https://skillicons.dev)
 
 ### 😎 About Me: 
 
