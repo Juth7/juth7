@@ -10,6 +10,7 @@
 ### Tech:
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,html,css,figma,tailwind,mui)](https://skillicons.dev)
+</br>
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,git,github,postgres,mongodb,mysql,nextjs)](https://skillicons.dev)
 
 ### 😎 About Me: 
