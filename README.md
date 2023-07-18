@@ -7,7 +7,8 @@
 
 ### I'm a FullStack Web Developer focused on the Front End
 
-###Tech:
+### Tech:
+
 [![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,html,css,figma,git,postgres,mongodb,mysql,nextjs)](https://skillicons.dev)
 
 ### 😎 About Me: 
